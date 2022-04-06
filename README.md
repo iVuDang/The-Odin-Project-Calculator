@@ -19,7 +19,7 @@ To make an on-screen calculator using JavaScript, HTML, and CSS.
 * GitHub
 
 
-## Process
+### Process
 * Note use red, blue, borders during draft to identify the containers
 1. HTML - set up structure HTML layout, <head> <body> <footer> 
 2. Set up meta and meta properties in <head> 
@@ -65,15 +65,15 @@ I created a on-screen Calculator where user is able to perform basic math operat
 I was stuck trying to figure out why the buttons didn't register with the JavaScript functions. 
 
 Issue: 
-* HTML: <button> + </button>
+* HTML: button> + <button
 * JS: operator == '+'
 
 Solution:
-* HTML: <button>+</button> 
+* HTML: button>+<button
 * JS: operator == '+'
 
 ### What could be improved
-- [ ] Refer to '???' noted beside lines in project. 
+- [ ] Refer to '???' noted beside lines in project. Need better understanding. 
 
 
 
