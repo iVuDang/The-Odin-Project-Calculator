@@ -6,7 +6,7 @@ https://www.theodinproject.com/lessons/foundations-calculator
 To make an on-screen calculator using JavaScript, HTML, and CSS.
 
 ## Preview:
-<img src="https://github.com/iVuDang/The-Odin-Project-Calculator/blob/bc31900dd7c9e8347859e6890a650a44e7f910ae/Calculator%20screenshot%20-%20GitHub.png" width=75% height=75%>
+<img src="https://github.com/iVuDang/The-Odin-Project-Calculator/blob/767ee9eda59781213c6f019c5387f45df743aa2b/Calculator%20screenshot%20-%20GitHub.png" width=75% height=75%>
 
 ### Technologies: 
 * JavaScript
