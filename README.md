@@ -53,7 +53,7 @@ I created a on-screen Calculator where user is able to perform basic math operat
 | Website | Link | 
 | ------------- | ------------- | 
 | CodePen demo | https://codepen.io/iVuDang/full/xxpWOZK | 
-| GitHub demo | https://ivudang.github.io/The-Odin-Project-Etch-a-Sketch/ | 
+| GitHub demo | https://ivudang.github.io/The-Odin-Project-Calculator/ | 
 
 
 <br />
