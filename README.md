@@ -8,6 +8,8 @@ To make an on-screen calculator using JavaScript, HTML, and CSS.
 ## Preview:
 <img src="https://github.com/iVuDang/The-Odin-Project-Calculator/blob/767ee9eda59781213c6f019c5387f45df743aa2b/Calculator%20screenshot%20-%20GitHub.png" width=75% height=75%>
 
+<img src="https://github.com/iVuDang/The-Odin-Project-Calculator/blob/5c355bed1ba96a9a14e7a5b15f210e75c4e27dea/Complete-foundations-screenshot.png" width=75% height=75%>
+
 ### Technologies: 
 * JavaScript
 * HTML
